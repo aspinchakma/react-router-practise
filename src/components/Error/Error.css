@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque&display=swap');
+.mini-container{
+    width: 80%;
+    margin: auto;
+}
+
+.error-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.tex-container{
+    margin: auto;
+}
+.tex-container h1{
+    font-size: 51px;
+    line-height: 1rem;
+    font-family: 'Darker Grotesque', sans-serif;
+    
+    font-weight: bolder;
+}
+.tex-container p{
+    font-size: 22px;
+    color:rgba(29,29,29,.7);
+    
+}

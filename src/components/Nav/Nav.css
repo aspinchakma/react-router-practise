@@ -1,0 +1,16 @@
+.link-container a{
+    text-decoration: none;
+    font-size:25px;
+    padding: 13px 50px;
+}
+.link-container {
+    background-color: white;
+    padding: 10px 0px;
+    margin-top: 10px;
+}
+.link-container a:hover{
+    background-color: orange;
+    color:white;
+    transition: all .5s ease-in-out;
+    border-radius: 5px;
+}

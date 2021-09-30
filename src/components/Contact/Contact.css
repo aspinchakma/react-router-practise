@@ -1,0 +1,18 @@
+.input-container{
+    width: 80%;
+    margin:auto;
+    margin-top:30px;
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+}
+.submit-container{
+    text-align: center;
+    padding: 50px 30px;
+}
+.submit-container input{
+    width: 100%;
+}
+.img-container img{
+    width:100%;
+    margin-top:14%;
+}
